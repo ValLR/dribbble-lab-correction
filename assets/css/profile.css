@@ -1,0 +1,70 @@
+/* Acá van tus estilos */
+*{
+    font-family: 'Arimo', sans-serif;
+}
+.rowa{
+	padding: 0;
+	margin: 0;
+}
+body{
+    background-color: #F4F4F4;
+}
+#perfil{
+    background-color: white;
+    height: 100%;
+    margin-top: 10%;
+    padding-bottom: 3%;
+    border-radius: 2%;
+}
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+#profile-img{
+    width: 25%;
+    height: auto;
+    padding-top: 5%;
+    margin: 0 auto 5px auto;
+    border-radius: 50%;
+}
+#iconVentas{
+    height: 10%;
+    width: auto;
+    border-radius: 50%;
+}
+ul li{
+    list-style-type: none;
+    margin: 0 5px 0 0;
+}
+ul{
+    -webkit-padding-start: 0px;
+}
+.section-two{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+i.fa-fa-twitter.left{   
+    margin: 0 0 0 5%;
+}
+.fa-globe:before {
+    content: "\f0ac";
+    padding-right: 10%;
+}
+.fa-twitter:before {
+    content: "\f099";
+    padding-right: 24%;
+}
+.fa-instagram:before {
+    content: "\f16d";
+    padding-right: 20%;
+}
+.fa-medium:before {
+    content: "\f23a";
+    padding-right: 20%;
+}
+.fa-comments{
+    content: "\f086";
+    padding-right: 4%;
+}

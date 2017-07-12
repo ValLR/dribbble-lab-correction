@@ -1,5 +1,7 @@
 /* Estilos de print desde js */
-
+body{
+	background-color: #EAEAEA;
+}
 .hidden{
 	position:none;
 }

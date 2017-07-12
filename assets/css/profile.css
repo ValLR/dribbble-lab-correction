@@ -2,10 +2,6 @@
 *{
     font-family: 'Arimo', sans-serif;
 }
-.rowa{
-	padding: 0;
-	margin: 0;
-}
 body{
     background-color: #F4F4F4;
 }
@@ -15,6 +11,7 @@ body{
     margin-top: 10%;
     padding-bottom: 3%;
     border-radius: 2%;
+ 
 }
 hr {
     margin-top: 20px;
@@ -22,7 +19,7 @@ hr {
     border: 0;
     border-top: 1px solid #eee;
 }
-#profile-img{
+#imagen{
     width: 25%;
     height: auto;
     padding-top: 5%;
@@ -39,32 +36,9 @@ ul li{
     margin: 0 5px 0 0;
 }
 ul{
-    -webkit-padding-start: 0px;
+    -webkit-padding-start: 70px;
 }
 .section-two{
     margin-left: 0%;
     margin-right: 0%;
-}
-i.fa-fa-twitter.left{   
-    margin: 0 0 0 5%;
-}
-.fa-globe:before {
-    content: "\f0ac";
-    padding-right: 10%;
-}
-.fa-twitter:before {
-    content: "\f099";
-    padding-right: 24%;
-}
-.fa-instagram:before {
-    content: "\f16d";
-    padding-right: 20%;
-}
-.fa-medium:before {
-    content: "\f23a";
-    padding-right: 20%;
-}
-.fa-comments{
-    content: "\f086";
-    padding-right: 4%;
 }

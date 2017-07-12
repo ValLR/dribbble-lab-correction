@@ -1,0 +1,57 @@
+footer{
+	padding: 40px;
+	font-family: 'Arimo', sans-serif;
+	color: #848484;
+}
+.row1{
+	margin-left: 5px;
+}
+.icons{
+	font-size: 2em;
+	padding-top: 10px;
+	padding-left: 5px;
+}
+.copyright{
+	padding-top: 10px;
+	padding-left: 20px;
+}
+ul li{
+	list-style: none;
+	cursor: pointer;
+	position: relative;
+	right: 50px;
+}
+.column{
+	position: relative;
+	left: 20px;
+	bottom: 8px;
+}
+.letter-blue{
+	position: relative;
+	top: 10px;
+	color: #5D52EF;
+}
+.column-right{
+	margin-left: 30px;
+}
+.img-footer{
+	position: relative;
+	left: 5px;
+	top: 20px;
+}
+.img-footer2{
+	position: relative;
+	left: 5px;
+	top: 75px;
+}
+.text-flow{
+	margin-left: 30px;
+}
+.numbers{
+	position: relative;
+	top: 10px;
+	color: black;
+}
+.div-numbers{
+	margin-top: 50px;
+}

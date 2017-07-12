@@ -1,0 +1,28 @@
+/* Estilos de print desde js */
+
+.hidden{
+	position:none;
+}
+
+a:hover{
+	cursor:pointer;
+}
+
+.fondo{
+	background-color: #BFBFBF;
+}
+
+.caja-white{
+	background-color: white;
+	padding: 10px;
+	width: 220px;
+	height: 200px;
+	margin: 5px 10px;
+	display: inline-block;
+}
+
+.visitas{
+	padding: 5px 0;
+	color: #BFBFBF;
+}
+
